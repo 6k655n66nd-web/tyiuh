@@ -5,4 +5,4 @@
 1.thing
 2.stuf
 3.other
-[Link to stuf page](stuf_page)
+[Link to thing page](thing_page)
