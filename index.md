@@ -6,3 +6,4 @@
 2.stuf
 3.other
 [Link to thing page](thing_page)
+[link to other page](other)
